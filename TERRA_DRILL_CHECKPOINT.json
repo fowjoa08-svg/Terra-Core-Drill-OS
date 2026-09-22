@@ -1,0 +1,24 @@
+{
+  "run_id": "20260922T180227Z",
+  "sample_index": 47,
+  "sample_count": 48,
+  "simulation_time_s": 47.0,
+  "depth_m": 6371000.000000001,
+  "phase": "noyau_interne_fer_nickel",
+  "temperature_c": 6000.0,
+  "pressure_pa": 360000000000.0,
+  "density_kg_m3": 12600.0,
+  "thermal_lock_sensor_offset_m": 1.75,
+  "thermal_lock": true,
+  "angular_speed_rad_s": 0.0,
+  "coolant_flow_kg_s": 40.0,
+  "axial_feed_m_s": 0.0,
+  "drift_vector_m_s": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "shield_active": true,
+  "checkpoint_reason": "forced",
+  "updated_utc": "2026-09-22T18:02:27.787950+00:00"
+}
